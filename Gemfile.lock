@@ -40,11 +40,15 @@ GEM
       tzinfo (~> 1.1)
     ansi (1.5.0)
     arel (7.0.0)
+<<<<<<< HEAD
     autoprefixer-rails (6.3.7)
       execjs
     bootstrap-sass (3.3.6)
       autoprefixer-rails (>= 5.2.1)
       sass (>= 3.3.4)
+=======
+    bcrypt (3.1.11)
+>>>>>>> modelling-users
     builder (3.2.2)
     byebug (9.0.0)
     coderay (1.1.1)
@@ -197,7 +201,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+<<<<<<< HEAD
   bootstrap-sass (= 3.3.6)
+=======
+  bcrypt (= 3.1.11)
+>>>>>>> modelling-users
   byebug (= 9.0.0)
   coffee-rails (= 4.2.1)
   guard (= 2.13.0)
